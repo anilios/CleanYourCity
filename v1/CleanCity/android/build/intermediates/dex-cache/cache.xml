@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/tapapps/.android/build-cache/b9affe0b4e8fdf4f37b1fdf31b897220fc9eba53/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/var/www/html/CleanCity/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_f68dfed5b18ec9230a8c47c7b99f81653b55c9bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tapapps/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/var/www/html/CleanCity/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_33a6ffaaa11910d09906671b6c1af703599d39be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tapapps/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/var/www/html/CleanCity/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_bebf70f898854a5e193c223d5ad98e7a2cfa25e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tapapps/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/var/www/html/CleanCity/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_565258870c76bf3c1ec30cc344359030dec016df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tapapps/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/var/www/html/CleanCity/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_f3f6f1711ec4300ada87b2a97334763d457330a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tapapps/.android/build-cache/b9affe0b4e8fdf4f37b1fdf31b897220fc9eba53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56d3e81fee5f47a7a12ab65f4620f580c9c71d1e">
+        <dex dex="/var/www/html/CleanCity/android/app/build/intermediates/pre-dexed/debug/classes_8f80df31dceae323254fbaec16d71928d22fe7bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tapapps/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/var/www/html/CleanCity/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_15307d2374a8af04fd7e54070b1273327aa9cd25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tapapps/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/var/www/html/CleanCity/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_bee3fa758456d0c39985ed7ce55e0511c71815be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tapapps/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/var/www/html/CleanCity/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_613638b7ed059c400203c6aa40bfd98e4b636616.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tapapps/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/var/www/html/CleanCity/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_4588967f3f313cf92d232250009ed26ae37c1791.jar" />
+    </item>
+
+</items>

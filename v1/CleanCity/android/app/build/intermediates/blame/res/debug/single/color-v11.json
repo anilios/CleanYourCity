@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/var/www/html/CleanCity/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/tapapps/.android/build-cache/0b7f3679b463f057d354dce3434d9a4f978bca52/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/var/www/html/CleanCity/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/tapapps/.android/build-cache/0b7f3679b463f057d354dce3434d9a4f978bca52/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

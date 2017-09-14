@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b45b3261c64d9a11dbd8a5602657f779f0d9129b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_f3f6f1711ec4300ada87b2a97334763d457330a9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.48.3_4adc2d09227cf0a507a544e4b7c2f035a8dad8ec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_31f2e41007ae6a91a7b1a84e5374fdf0e49d46ac.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_613638b7ed059c400203c6aa40bfd98e4b636616.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_bebf70f898854a5e193c223d5ad98e7a2cfa25e0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_37b17f5543d8314cbf77b3d3543d146a9cc602b8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_565258870c76bf3c1ec30cc344359030dec016df.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_3942b0fdf626cf4f68ac4fd2829d884f344e0c71.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_108cc9fc9b5ee73272c396f5bd229d05be5a94e1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/debug_b6c9fcf65e26ca58649c6b602e5d4fc08acb7f4d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_33a6ffaaa11910d09906671b6c1af703599d39be.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_9cbde91183ff4026f22a3532b8949b73af35805e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_1784d26b6b47c50a9ccb5f68bf42b76774c64861.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_15307d2374a8af04fd7e54070b1273327aa9cd25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_636c1cc2266da33369306e443ed0994ff78cbb48.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_b48411afd305e18e4c88441af344ba45ddbadb17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_f8adf369f87b8f37a6024aa9ba948640078495f8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_60b9ae7df3ff46f0086291213518190beb237cab.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_4588967f3f313cf92d232250009ed26ae37c1791.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_8fffd5441da8b58a63c456278d0e37af72c4f521.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_bee3fa758456d0c39985ed7ce55e0511c71815be.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
